@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bytemark</string>
+    <string name="action_settings">Settings</string>
+    <string name="question1">Does Bytemark makes Mobile Apps?</string>
+    <string name="question2">Is Bytemark Located in NYC?</string>
+    <string name="question3">Does Bytemark support buying Tickets?</string>
+    <string name="question4">Is Bytemark secure?</string>
+    <string name="question5">Does Bytemark involve Grocery Shopping?</string>
+    <string name="question6">Bytemarkis not on facebook!</string>
+    <string name="question7">Does Bytemark support Real-time apps?</string>
+    <string name="question8">Is Bytemark international company?</string>
+    <string name="question9">Bytemark is located in California</string>
+    <string name="question10">Did you like the app?</string>
+    <string name="correct">Correct</string>
+    <string name="cheat_toast">You just Cheated</string>
+    <string name="cheat_answer"></string>
+    <string name="main_cheat">Cheat</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="cheat">Correct Answer:</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+</resources>
